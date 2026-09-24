@@ -1,26 +1,26 @@
 # Plan
 
-* PROJECT TITLE
-* YOUR NAME
-* STUDENT ID
-* SUPERVISOR NAME
+* DESIGNING A GAMIFIED CO2 TRACKER FOR ACTIVE TRAVEL
+* HANNAH WEIR
+* 2881720W
+* ALISTAIR MORRISON
 
 Week-by-week plan for the whole project. Update this as you go along.
 
 ## Winter semester
 
-* **Week 1**
-* **Week 2**
-* **Week 3**
-* **Week 4**
+* **Week 1** Background research into gamification, how we encourage users behaviours and how we track them.
+* **Week 2** More research, check status of project w. GALLANT
+* **Week 3** Research into manufacturing of app, which platform / language to use
+* **Week 4** Research
 * **Week 5**
 * **Week 6**
 * **Week 7**
 * **Week 8**
 * **Week 9**
 * **Week 10**
-* **Week 11 [PROJECT WEEK]**
-* **Week 12 [PROJECT WEEK]** Status report submitted.
+* **Week 11 [PROJECT WEEK]** 
+* **Week 12 [PROJECT WEEK]** Status report submitted. Rough Initial app made
 
 ## Winter break
 
