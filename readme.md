@@ -24,3 +24,8 @@ Here's an overview of the structure as it stands:
 ## Important
 * It should be easy to rebuild and run your project and your dissertation
         * Include clear instructions in the relevant directories to make this possible
+
+# Current status of the app
+<img width="388" height="888" alt="image" src="https://github.com/user-attachments/assets/3554fc2b-d107-45d1-9d5f-c717ed8843bb" />
+This is the latest update, the map now loads but user location still needs to be added in.
+
